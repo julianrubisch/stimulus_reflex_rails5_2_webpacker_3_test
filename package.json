@@ -7,6 +7,6 @@
     "stimulus_reflex": "^2.1.4"
   },
   "devDependencies": {
-    "webpack-dev-server": "2.11.2"
+    "webpack-dev-server": "3.1.11"
   }
 }
